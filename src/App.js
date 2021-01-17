@@ -1,8 +1,7 @@
 import './App.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.css'
 
-import React, { useState } from 'react'
-
+import React from 'react'
 import android from './android.png'
 import ios from './ios.png'
 
